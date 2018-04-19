@@ -213,3 +213,8 @@ int main(void){
     return (failed ? EXIT_FAILURE : EXIT_SUCCESS);
 
 }
+
+//install: make dep
+//script: make test
+//sudo: required
+//target: test
